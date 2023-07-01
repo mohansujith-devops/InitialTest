@@ -1,2 +1,0 @@
-# InitialTest
-Initial learnings
